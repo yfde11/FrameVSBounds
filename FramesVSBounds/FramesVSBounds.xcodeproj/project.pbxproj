@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					9BAFAE9B1E9C74C9005E68F9 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = YX74XFK6Z8;
+						DevelopmentTeam = 45HXTPS3WE;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,7 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YX74XFK6Z8;
+				DEVELOPMENT_TEAM = 45HXTPS3WE;
 				INFOPLIST_FILE = FramesVSBounds/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = msxiao.FramesVSBounds;
@@ -274,7 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YX74XFK6Z8;
+				DEVELOPMENT_TEAM = 45HXTPS3WE;
 				INFOPLIST_FILE = FramesVSBounds/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = msxiao.FramesVSBounds;
